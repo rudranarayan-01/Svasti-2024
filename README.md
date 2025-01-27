@@ -27,7 +27,7 @@ A Farewell Website built using **React** and **Vite**. This project provides a p
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # Svasti-2024
 
-Site is live : https://svasti-2024.netlify.app/
+Live preview : https://svasti-2024.netlify.app/
 
 For cloning 
 
