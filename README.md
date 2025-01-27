@@ -48,5 +48,23 @@ Contributions are welcome! If you'd like to contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
+## Acknowledgements
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
+- [Lucide-react](https://lucide.dev/)
+
+---
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+- **Email**: rudranarayansahu.tech@email.com
+- **GitHub**: [rudranarayan-01](https://github.com/rudranarayan-01)
+
+
 ---
 
